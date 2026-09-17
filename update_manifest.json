@@ -1,11 +1,11 @@
 {
   "product": "MSKV Taşınmaz Yönetim Sistemi",
-  "version": "14.2.0",
+  "version": "14.2.1",
   "channel": "stable",
   "minimum_supported_version": "14.0.1",
-  "setup_url": "https://github.com/feritozaltun-glitch/MSKV-Updates/releases/download/v14.2.0/MSKV_Setup_v14.2.0.exe",
-  "sha256": "3814edede49a903878eb00ea44b9dd7a5ec6e0d0b760ecebc0d29cd85e179962",
-  "size": 49986910,
-  "release_notes": "MSKV 14.2.0 - PostgreSQL/Supabase merkezi veritabani ve performans iyilestirmeleri.",
+  "setup_url": "https://github.com/feritozaltun-glitch/MSKV-Updates/releases/download/v14.2.1/MSKV_Setup_v14.2.1.exe",
+  "sha256": "a5f84dd6b26d275052b841585accb4d464d23e32d6bc5c7e116bee882ee96160",
+  "size": 49993107,
+  "release_notes": "MSKV 14.2.1 - PostgreSQL/Supabase merkezi veritabani, performans ve Ana Panel kararlilik iyilestirmeleri.",
   "release_date": "2026-09-17"
 }
